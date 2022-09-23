@@ -23,7 +23,7 @@
 
 How to reach me? 
 
-[LinkedIn](www.linkedin.com/in/victor-barra)    [Twitter](https://twitter.com/VictorBarraa)    [Email](mailto:victor.barra@live.be)
+[LinkedIn](https://www.linkedin.com/in/victor-barra)    [Twitter](https://twitter.com/VictorBarraa)    [Email](mailto:victor.barra@live.be)
 
 <!--
 **Vicba/VicBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
