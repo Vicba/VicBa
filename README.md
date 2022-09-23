@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victor Barra
+### Hi there 👋
 
 ### About Me ###
 
