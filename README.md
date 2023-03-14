@@ -1,8 +1,6 @@
 # Hi there 👋 #
 I'm Victor, an Applied Computer Science student and software developer.
 
-## About Me ##
-
 *  Currently living in Belgium :belgium: 
 * 🎒 My major is Artificial intelligence
 * ⚡ Things I like to do : Golf, Travel, Reading, Shipping tech projects
