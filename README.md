@@ -4,7 +4,7 @@ I'm Victor, an Applied Computer Science student and software developer.
 *  Currently living in Belgium :belgium: 
 * 🎒 My major is Artificial intelligence
 * ⚡ Things I like to do : Golf, Travel, Reading, Shipping tech projects
-* 📌 Recent projects and skills can be found on my [portfolio website](https://victorbarra.com).
+* 📌 Recent projects and skills can be found on my [portfolio website](https://vicba.github.io/portfolio/).
 
 ## Hit me up! ##
 
