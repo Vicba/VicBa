@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Victor, an Applied Computer Science student and software developer.
+I'm Victor!
 
 - 🌍 Currently living in Belgium :belgium:
-- 🎓 My major is Artificial Intelligence
+- 🎓 Studied Applied Computer Science with a major in AI
 - ⚡ Things I like to do: golf, reading, music, hanging out with friends
-- 🌐 Check out my [portfolio website](https://victorbarra.dev) for recent projects and skills.
+- 🌐 Check out my [personal website](https://victorbarra.dev) for more info.
 
 ## Hit me up! ##
 
