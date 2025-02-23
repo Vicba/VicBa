@@ -2,7 +2,7 @@
 
 I'm Victor!
 
-- 🌍 Currently living in Belgium :belgium:
+- 🌍 Currently living in Brussels, Belgium :belgium:
 - 🎓 Studied Applied Computer Science with a major in AI
 - 🚀 Currently working as an AI engineer at [Inect](https://www.inect.be)
 - ⚡ Things I like to do: golf, reading, music, hanging out with friends
