@@ -4,6 +4,7 @@ I'm Victor!
 
 - 🌍 Currently living in Belgium :belgium:
 - 🎓 Studied Applied Computer Science with a major in AI
+- 🚀 Currently working mainly with GenAI at [Inect](https://www.inect.be)
 - ⚡ Things I like to do: golf, reading, music, hanging out with friends
 - 🌐 Check out my [personal website](https://victorbarra.dev) for more info.
 
