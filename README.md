@@ -4,7 +4,7 @@ I'm Victor!
 
 - 🌍 Currently living in Brussels, Belgium :belgium:
 - 🎓 Studied Applied Computer Science with a major in AI
-- 🚀 Currently working as an AI engineer at [Inect](https://www.inect.be)
+- 🚀 Currently working as a founding engineer at [Inku](https://inku.tech)
 - ⚡ Things I like to do: golf, reading, music, hanging out with friends
 - 🌐 Check out my [personal website](https://victorbarra.dev) for more info.
 
